@@ -1,0 +1,15 @@
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\RevisãoGITcalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\RevisãoGITcalculadora.AssemblyInfoInputs.cache
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\RevisãoGITcalculadora.AssemblyInfo.cs
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\RevisãoGITcalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\RevisãoGITcalculadora.sourcelink.json
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\bin\Debug\net8.0\RevisãoGITcalculadora.exe
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\bin\Debug\net8.0\RevisãoGITcalculadora.deps.json
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\bin\Debug\net8.0\RevisãoGITcalculadora.runtimeconfig.json
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\bin\Debug\net8.0\RevisãoGITcalculadora.dll
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\bin\Debug\net8.0\RevisãoGITcalculadora.pdb
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\RevisãoGITcalculadora.dll
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\refint\RevisãoGITcalculadora.dll
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\RevisãoGITcalculadora.pdb
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\RevisãoGITcalculadora.genruntimeconfig.cache
+C:\Users\Azeit\Desktop\RevisãoGITcalculadora\obj\Debug\net8.0\ref\RevisãoGITcalculadora.dll

@@ -28,6 +28,8 @@ switch (acao)
 
     default:
     Console.WriteLine("Opção inexistente.");
+    break;
 }
+Console.WriteLine("O Resultado: "+ num3);
 
 
